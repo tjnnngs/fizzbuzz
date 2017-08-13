@@ -9,6 +9,7 @@ x = 0
 			p "buzz"
 		elsif x % 3 == 0
 		 p "fizz"
+		else p x
 			
 	end
 end
