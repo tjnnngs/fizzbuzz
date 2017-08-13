@@ -1,5 +1,5 @@
 	
-	x = 0
+x = 0
 
 	100.times do
 		x = x + 1
@@ -8,3 +8,4 @@
 			p "even"
 		else p "odd"
 	end
+end
