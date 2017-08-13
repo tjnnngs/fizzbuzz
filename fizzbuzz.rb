@@ -5,7 +5,7 @@ x = 0
 		x = x + 1
 		if x % 3 == 0
 			p "fizz"
-		elsif x % 5 
-			p "buzz"
+		else p x
+			
 	end
 end
